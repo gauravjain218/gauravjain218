@@ -2,7 +2,7 @@
 
 🚀 **Senior Full-Stack Software Engineer | 14+ Years Experience**
 
-I build **scalable, high-performance web applications and APIs** using modern technologies like **.NET, SQL Server, Azure, NO SQL, Angular, Node.js, and TypeScript**.
+I build **scalable, high-performance web applications and APIs** using modern technologies like **.NET Core, C#, SQL Server, Azure, NO SQL, Angular, Node.js, and TypeScript**.
 Experienced in **cloud-native development with AZURE** and certified as **Microsoft Certified: Azure Developer Associate** ☁️.
 
 ---
