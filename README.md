@@ -82,8 +82,8 @@ Experienced in **cloud-native development with AZURE** and certified as **Micros
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: (Add your LinkedIn link)
-📧 Email: (Add your email)
+💼 LinkedIn: https://www.linkedin.com/in/gauravsantoshjain/
+📧 Email: gaurav.jain218@gmail.com
 
 ---
 
